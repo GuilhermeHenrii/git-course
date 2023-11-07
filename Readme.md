@@ -1,9 +1,3 @@
-#GitHub
+# git-course
+Repositório criado com objetivo de aprimorar as habilidades em git
 
-Arquivo da aula de Git
-
-Teste
-
-Teste 2
-
-Testando o diff
