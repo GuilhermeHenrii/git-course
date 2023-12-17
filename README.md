@@ -1,4 +1,4 @@
-# Lista de tarefas 
+# Git courses 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/GuilhermeHenrii/git-course/blob/main/LICENSE) 
 
 # Sobre o projeto
