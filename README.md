@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-O proposito desse projeto é armazenar e servir como um ambiente de teste para comando git.
+O proposito desse projeto é armazenar e servir como um ambiente de testes para comandos git.
 
 <!-- # Como executar o projeto
 ```bash
